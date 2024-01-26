@@ -11798,3 +11798,12 @@ section#contact form#contactForm :-ms-input-placeholder {
     width: 100%;
   }
 }
+
+ul {
+  white-space: nowrap;
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+}
